@@ -1,2 +1,1 @@
-# studyRepo
-my first repo
+you can see my API
